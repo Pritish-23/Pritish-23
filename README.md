@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pritish%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20AI/ML%20Engineer%20|%20MLOps&descAlignY=55&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+%26+multi-agent+LLM+systems;Privacy-aware%2C+cost-aware+AI+architectures;Data Science+%7C+LangGraph+%7C+LangChain+%7C+MCP+%7C+AWS+%7C+ML;Systems+that+are+verifiably+correct%2C+not+just+plausible" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+%26+multi-agent+LLM+systems;Privacy-aware%2C+cost-aware+AI+architectures;DataScience+%7C+LangGraph+%7C+LangChain+%7C+MCP+%7C+AWS+%7C+ML;Systems+that+are+verifiably+correct%2C+not+just+plausible" alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/pritishsharma230805/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pritishsharma08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
