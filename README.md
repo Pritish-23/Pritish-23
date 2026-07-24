@@ -103,14 +103,7 @@ Production-grade MLOps pipeline: MongoDB Atlas ingestion → schema validation �
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pritish-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritish-23&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pritish-23&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pritish-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pritish-23&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Pritish-23&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritish-23&theme=tokyo-night&hide_border=true"/> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/> </div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritish-23&theme=tokyo-night&hide_border=true"/>
